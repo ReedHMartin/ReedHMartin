@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm currently working on pre-coursework before starting the Case Western Reserve University Coding Bootcamp.
+- I'm currently learning HTML, CSS, and Python (Automate the Boring Stuff), and trying to better understand tools for doing so.
+
 <!--
 **ReedHMartin/ReedHMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
